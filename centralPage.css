@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed:400,700');
+
+
+h1
+{
+    font-weight: bold;
+    color: black;
+
+
+}
+body
+{
+    padding: 50px;
+    font-family: Roboto-Condensed, sans-serif;
+    font-style: bold;
+    color: #686767;
+    font-size: 20px;
+
+}
